@@ -1,1 +1,5 @@
 unaclaveprivada
+unaclaveaunmasprivada
+node_modules
+.env
+tmp
