@@ -1,4 +1,4 @@
-# Ejemplo de git
+# 🔥 Aprendiendo Git con Hugo 🔥
 
 - git init
 - git add <archivo>
