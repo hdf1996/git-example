@@ -1,7 +1,3 @@
-# 🔥 Aprendiendo Git con Hugo 🔥
+# 🔥 Arruinando el codigo 🔥
 
-- git init
-- git add <archivo>
-- git commit -m 'Mensaje'
-- git push origin master
-- git status
+JAJAJAJAJA
