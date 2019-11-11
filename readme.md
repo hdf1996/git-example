@@ -5,3 +5,4 @@
 - git commit -m 'Mensaje'
 - git push origin master
 - git status
+- git checkout -b <branch-name>
